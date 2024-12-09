@@ -4,3 +4,12 @@ what is AI
 A broader field of creating software that imitated human behaviour.
 where AI started
 What is the future of AI.
+git status to o check the new updates in the file
+git branch -- to check the branch name you are  in
+git branch <branch name> -- to create new branch
+git add "file_name" -- to add new file which have been added or updated
+git commit -m  -- to add comments in the code that is added
+git push origin -- to add you file in the git repositry
+git -- to checj the git is 
+git --version to get version of git.
+git --help to know any thing.
