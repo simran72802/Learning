@@ -1,0 +1,55 @@
+Visit:
+
+Dr. Nitin Bansal (Agriculture)
+
+Topic: Role of ML, IoT, and AI in resolving health issues due to stubble burning in agriculture within the states of Punjab.
+
+Intro:
+
+. Indian Agriculture System
+
+. Punjab Agriculture System
+
+. Crop pattern agriculture system
+
+. real-time issue Environmental efficiency due to the current agricultural system.
+
+Talk about soils that, in different states, soils have different properties to grow different things, like 
+
+We cannot grow some species in Punjab.
+
+The value of Indian wheat is high in the gross market.
+
+28% rice from Punjab.
+
+47% of wheat is from Punjab.
+
+types of crops in Punjab:
+
+rice and wheat, may, sugar cane, cotton, all seed, basmati in Amritsar.
+
+Punjab University is researching different crops.
+
+talk about water scarcity.
+
+In Punjab we have various types of rice and paddy.
+
+crop diversity 
+
+Paddy has many problems.
+
+KINNU: Research in the PU research department started by merging orange and masuami seeds to create new fruit.
+
+started from selling at 100 per kg, the current price is 43 per kg.
+
+concept of renting agricultural equipments e.g harvestor.
+
+---------------------------------------Second half------------------------------------------------------
+
+run commands:
+
+git clone https://git.digimantra.com/SHREY/DigiDoctor.git
+
+install pip
+
+pip install -r requirements.txt
